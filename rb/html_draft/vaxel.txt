@@ -1,0 +1,127 @@
+Den anliggande tungan ska sluta väl mot sin stödräl. Vid tungspetsen får avståndet mellan tungan och stödrälen vara högst 3 mm. Finns det flera växeldriv för tungan, får det mellan två växeldriv vara högst 15 mm mellan tungan och stödrälen. Den frånliggande tungan ska ligga på tillräckligt avstånd från sin stödräl, minst 60 mm. Finns det rörlig korsningsspets, får avståndet mellan spetsen och den vingräl som spetsen ska sluta mot vara högst 3 mm, och det måste kontrolleras att den rörliga korsningsspetsen är lagd för samma färdväg som tungorna. De angivna måtten får uppskattas med ögonmått.
+
+En korsningsväxel består av en kombination av en spårkorsning och växlar. Det finns dubbel korsningsväxel och enkel korsningsväxel. I en korsningsväxel kan den ena änden bestå av motordriven växel och den andra av klotväxel.
+
+En dubbel korsningsväxel (ibland benämnd "hel engelsman") består av två korsande spår där alla fyra rörelsevägar har förbindelse med varandra. I en dubbel korsningsväxel finns det växeltungor i alla de fyra anslutande spåren. Vid färd genom en dubbel korsningsväxel passerar man först en motväxel och därefter en medväxel.
+
+En enkel korsningsväxel (ibland benämnd "halv engelsman") består av två korsande spår där två rörelsevägar har förbindelse med varandra. I en enkel korsningsväxel finns det växeltungor bara i två av de fyra anslutande spåren. Vid färd genom en enkel korsningsväxel passerar man först en motväxel och därefter en medväxel, eller bara en motväxel, eller bara en medväxel.
+
+En enkel växel är en spårväxel som har ett grenspår. En enkel växel har två rörliga växeltungor. Den del som man först uppnår vid rörelse i motväxelriktningen kallas växeltungspetsar. Stödräl kallas den räl som en växeltunga, beroende på växelns läge, ska ligga an mot eller ligga på tillräckligt avstånd från. Vid rörelse i medväxelriktningen uppnås först växelns hinderfrihetspunkt och därefter växelns korsningsspets. De flesta växlar har fast korsningsspets, men i vissa växlar förekommer rörlig korsningsspets. Vingräl är den del av rälen som en rörlig korsningsspets, beroende på växelns läge, ska ligga an mot eller ligga på tillräckligt avstånd från. Växel med rörlig korsningsspets ska vara markerad av tavla "rörlig korsning", placerad invid korsningsspetsen. Lokalställare för växel med rörlig korsningsspets ska vara märkt med liten märkskylt för att visa att den gäller för en växel med rörlig korsningsspets. Det kan förekomma att växlar med rörlig korsningsspets inte är korrekt utmärkta.
+
+En klotväxel är en manuellt omläggningar växel som med handkraft manövreras genom ett växelställ med en hävstång och ett växelklot.
+
+En kopplad växel är två eller flera motordrivna växlar som läggs om med en och samma omläggningsmanöver, från signalställverket eller från en gemensam lokalställare.
+
+En kryssväxel består av en korsningsförbindelse mellan två spår.
+
+En motordriven växel som kan manövreras med hjälp av en handvev ska inte detekteras i kontroll när handveven är insatt i drivet.
+
+En spårkorsning består av två spår som korsar varandra.
+
+En uppkörda växel är en växel som i lokala anvisningar eller bestämmelser, eller av skylt är angiven såsom tillåten att köra upp. Oftast växlar på sidospår utan driv och med fjädrande konstruktion.
+
+En växel i kontroll är en växel som sluter och vars läge bekräftas av signalanläggningen.
+
+En växel med rörlig korsningsspets är en spårväxel som har en omläggningar korsningsspets.
+
+En växel som sluter är en växel vars anliggande tunga sluter väl mot sin stödräl och vars frånliggande tunga ligger på tillräckligt avstånd från sin stödräl. För en växel som har rörlig korsningsspets krävs också att denna befinner sig i farbart läge.
+
+Man ska kunna se att växeltungorna och, i förekommande fall, den rörliga korsningsspetsen ligger rätt för den avsedda färdvägen. Kontrollen kan göras på avstånd, om siktförhållandena är tillräckliga.
+
+Stoppgränsen kallas den gräns före eller i en växel som i vissa fall inte får passeras innan man först har kontrollerat växeln. Motväxel: Stoppgränsen är belägen omedelbart före växeltungspetsarna. Medväxel med fast korsningsspets: Stoppgränsen är belägen omedelbart före den punkt där den rörliga växeltungan börjar. Medväxel med rörlig korsningsspets: Stoppgränsen är belägen omedelbart före vingrälen. Korsningsväxel: Stoppgränsen är, för både motväxeldelen och medväxeldelen, belägen omedelbart före växeltungspetsarna i motväxeldelen. Om infart i en enkel korsningsväxel sker på det spår där motväxel saknas, är stoppgränsen belägen i höjd med stoppgränsen på det spår där motväxel finns.
+
+Uppkörning av växel är när ett fordonssätt förs genom en medväxel där växeltungorna inte ligger i rätt läge för det spår varifrån fordonssättet kommer. Även då fordonssätt förs genom växel med rörlig korsningsspets där korsningsspetsen inte ligger i rätt läge för den avsedda rörelsen.
+
+Uppkörbar växel:
+För vissa platser kan det finnas lokala anvisningar eller tilläggsbestämmelser för växlar som är tillåtna att köra upp.
+
+I vissa sidospår, i allmänhet inom depåområden, förekommer uppkörbara växlar. En sådan är konstruerad för att kunna köras upp. Att en växel är uppkörbar kan framgå av lokala anvisningar eller bestämmelser, eller av skylt med text "Uppkörbar" e.d.
+
+I allmänhet är en uppkörbar växel återgående, vilket innebär att växeltungorna återgår i växelns ursprungliga läge genast sedan de har körts upp. Man bör undvika att stanna ett fordonssätt i en återgående uppkörbar växel som har körts upp. Om ett fordonssätt ändå blir stående i en återgående uppkörbar växel, ska fordonssättet om möjligt flyttas vidare i den ursprungliga riktningen (medväxelriktningen). Är det nödvändigt att flytta fordonssättet i motväxelriktningen, måste växeln först läggas om till det spår varifrån fordonssättet ursprungligen kom, och man måste kontrollera att växeln sluter i det läget.
+
+Innan ett fordonssätt i motväxelriktningen passerar stoppgränsen för en återgående uppkörbar växel, måste man kontrollera att växeln sluter.
+
+På driftplatser i system R och på enstaka driftplatser i system M förekommer återgående uppkörbara växlar också i huvudspår. Sådana växlar är försedda med en växellanternin, vars lampa lyser när växeln är i kontroll i normalläge.
+
+På vissa platser förekommer det icke återgående uppkörbara växlar, där växeltungorna efter uppkörningen ligger kvar i det uppkörda läget.
+
+TDOK 2013:0476
+7
+
+TDOK 2013:0631
+6
+7
+
+TDOK 2017:0701
+8
+9
+10
+11
+
+TDOK 2021:0284
+1
+6.1
+6.2
+11.6
+12
+
+När en motordriven växel ska läggas om lokalt på plats, används en lokalställare som har två tryckknappar för omläggning av växeln och en lokalställarlampa. För att med lokalställaren kunna lägga om en växel som tillhör ett signalställverk krävs att växeln är lokalfrigiven. En motordriven växel kan inte läggas om centralt när den hinderfrihetsspårledning där växeln finns (växelspårledningen) är belagd. När växeln är lokalfrigiven, kan den läggas om med lokalställaren även när växelspårledningen är belagd.
+
+En klotväxel kan vara låst me en elektrisk låsanordning. För att indikera att växeln är upplåst kan det finnas en särskild lokalfrigivningslampa, men det är vanligt att upplåst växel indikeras endast av lokalställarlampan för en närbelägen motordriven växel. I vissa fall hålls en klotväxel låst med kontrollås (K-lås) som låses upp med en kontrollåsnyckel (K-nyckel). Användning av K-nycklar beskrivs i lokala anvisningar eller bestämmelser. I regel är klotväxlar låsbara bara om de ligger i huvudspår eller i signalreglerade sidospår, eller utgör skyddsväxlar för sådana spår.
+
+<h2>Spårspärr</h2>
+<p>En spårspärr kan vara centralt omläggningsbar från ett signalställverk, lokalt omläggningsbar på plats, eller både centralt och lokalt omläggningsbar. Motordrivna växlar är i regel både centralt och lokalt omläggningsbara, men det förekommer motordrivna växlar som är enbart centralt eller enbart lokalt omläggningsbara.</p>
+<p>En spårspärr kan vara motordriven och läggas om av ett spårspärrsdriv, eller vara manuellt omläggningsbar och läggas om med handkraft. En manuellt omläggningsbar spårspärr läggs om genom att manövrera ett spårspärrsklot på plats.</p>
+<p>När spårspärrsklotets gula sida är uppåt, ligger spårspärren i påläge. När spårspärrsklotets röda sida är uppåt, ligger spårspärren i avläge.</p>
+
+<h2>Växel</h2>
+<p>En växel kan vara centralt omläggningsbar från ett signalställverk, lokalt omläggningsbar på plats, eller både centralt och lokalt omläggningsbar.</p>
+<p>En växel kan vara motordriven och läggas om av ett eller flera växeldriv, eller vara manuellt omläggningsbar och läggas om med handkraft (klotväxel). En klotväxel läggs om genom att manövrera ett växelklot på plats.</p>
+<p>Långa växlar är normalt utrustade med flera växeldriv placerade utmed växeltungorna.</p>
+<p>När växelklotets gula sida är uppåt, ligger växeln i normalläge. När växelklotets röda sida är uppåt, ligger växeln i omlagt läge.</p>
+
+<p>En växel får ej manövreras om den är låst med en klove.</p>
+
+<h2>Kontroll av att växel ligger i rätt läge</h2>
+<h2>Kontroll av att växel sluter</h2>
+<h3>Växel som ej sluter</h3>
+
+<h2>Kontroll av växel i signalställverk</h2>
+
+<h2>Olika typer av växelkonstruktioner</h2>
+<h3>Enkel växel</h3>
+<h3>Enkel korsningsväxel</h3>
+<h3>Dubbel korsningsväxel</h3>
+
+<h2>Omläggning av lokalfrigiven växel med lokalställare</h2>
+<h3>Krav för lokalfrigivning av växel</h3>
+
+<h2>Omläggning av uppkörbar växel</h2>
+
+<h2>Omläggning av växel genom vevning</h2>
+
+<h2>Omläggning av växlar med manövertavla</h2>
+
+<h2>Omläggning av klotväxel</h2>
+
+<h2>Snöröjning av växel</h2>
+
+<h2>Uppkörbar växel</h2>
+
+<h2>Växelkorsning</h2>
+
+<h2>Växels utformning och funktion</h2>
+
+<h3>Växels lägen</h3>
+<p>Växeln ligger i högerläge när den vänstra tungspetsen ligger an mot den vänstra stödrälen, och den högra tungspetsen ligger på avstånd från den högra stödrälen.</p>
+<pre>[skiss på växel i högerläge]</pre>
+<p>Växeln ligger i vänsterläge när den vänstra tungspetsen ligger på avstånd från den vänstra stödrälen, och den högra tungspetsen ligger an mot den högra stödrälen.</p>
+<pre>[skiss på växel i vänsterläge]</pre>
+
+<h3>Växels omläggningsanordning och låsningsmekanism</h3>
+<h4>Rörlig korsningsspets</h4>
+<p>Vissa växlar är utrustade med en rörlig korsningsspets. Korsningsspetsen läggs om av ett eller flera separata växeldriv.</p>
+
+<h4>Växeldriv</h4>
+
+<h2>Växelvärme</h2>
